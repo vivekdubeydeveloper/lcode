@@ -12,3 +12,7 @@ https://leetcode.com/problems/remove-element/
 Problem 3
 
 https://leetcode.com/problems/implement-strstr/
+
+Problem 4
+
+https://leetcode.com/problems/search-insert-position/
