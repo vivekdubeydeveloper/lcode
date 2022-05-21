@@ -12,6 +12,8 @@ class SearchInsertPosition {
             }
         }
         
+       
+        
         return result;
         
     }
